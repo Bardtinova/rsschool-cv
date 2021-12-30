@@ -8,7 +8,7 @@
 - **Discord** bardtinova#7804
 
 ### Briefly about myself:
-I graduated from the Pedagogical University. She worked as a computer science teacher. I can make decisions and I can solve problems. I have developed communication skills. I like mitting people and helping them. My people skills are my greatest strength. I find it easy to connect with almost anyone, and I often know how to empathize with others in an appropriate way. I like working in a team.
+I graduated from the Pedagogical University. She worked as a computer science teacher. I can make decisions and I can solve problems. I have developed communication skills. I like mitting people and helping them. My people skills are my greatest strength. I find it easy to connect with almost anyone, and I often know how to empathize with others in an appropriate way. I like working in a team. Teamwork is important to me.
 
 I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
 besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
