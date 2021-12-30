@@ -40,7 +40,7 @@ function f(n){
     return (1 + n)*n/2;
 };
   ```
-###Courses
+### Courses
 - Graduated from a university
 - [HTML and CSS, JS on MDN Mozzila](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - self-study
