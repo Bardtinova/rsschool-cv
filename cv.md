@@ -1,6 +1,6 @@
-```
+
 ## Nataliya Bardtinova
-```
+
 > Contact information:
 >**Phone:** +38 093 3044911
 >**E-mail:** bardtinova@gmail.com
@@ -8,7 +8,7 @@
 >[**Linkedln**](linkedin.com/in/nataliya-bardtinova-37801722a)
 >**Discord** bardtinova#7804
 
-###Briefly about myself:
+### Briefly about myself:
 I graduated from the Pedagogical University. She worked as a computer science teacher. I can find solutions and solve problems. I have developed communication skills. I easily find a common language with different people. I love helping people. I am able to work productively in a team.
 
 I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
@@ -18,7 +18,7 @@ I am improving my English and programming skills.
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
-###Skills:
+### Skills:
 - JS
 - HTML&CSS
 - Git, GitHub
@@ -29,7 +29,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 - Delphi
 - Angular
 
-###Code example:
+### Code example:
 
 **Gauß needs help! (Sums of a lot of numbers).** _Due to another of his misbehaved, the primary school's teacher of the young Gauß, Herr J.G. Büttner, to keep the bored and unruly young schoolboy Karl Friedrich Gauss busy for a good long time, while he teaching arithmetic to his mates, assigned him the problem of adding up all the whole numbers from 1 through a given number n._
 
@@ -46,7 +46,7 @@ function f(n){
 - [HTML and CSS, JS on MDN Mozzila](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - self-study
 
-###Languages:
+### Languages:
 - English - Pre-intemedia/Intermedia
 - Russian - Native
 - Ukrainian - Native
