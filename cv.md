@@ -47,7 +47,7 @@ function f(n){
 - self-study
 
 ### Languages:
-- English - Pre-intemedia/Intermedia
+- English - Pre-intemedia/ Intermedia
 - Russian - Native
 - Ukrainian - Native
 
