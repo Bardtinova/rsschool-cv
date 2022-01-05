@@ -1,1 +1,162 @@
-<div class="box">I use the standard box model.</div>
+<!DOCTYPE html>
+<html class="page" lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nataliya Bardtinova CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Pushster&display=swap" rel="stylesheet">
+    <link rel="icon" href="img/favicon.png" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="page-body">
+    <header>
+        <button class="fon">
+            <span class="fon__line"></span>
+        </button>
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__item"><a href="#about-me">About me</a></li>
+                <li class="nav__item"><a href="#skills">Skills</a></li>
+                <li class="nav__item"><a href="#strengths">Strengths</a></li>
+                <li class="nav__item"><a href="#code-example">Code</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="container">
+        <div class="left-side">
+            <figure class="figure--left-side">
+                <img src="img/photo1.jpg" width="380" height="507" class="photo" alt="Photo of Nataliya Bardtinova" />
+            </figure>
+            <section class="contact" id="contact">
+                <h2 class="section-title">Contact</h2>
+                <ul class="contact__list">
+                    <li class="contact__item">
+                        <b>Phone:</b><a class='left-side' href="tel:+380933044911">+38 (093) 304-49-11</a>
+                    </li>
+                    <li class="contact__item">
+                        <b>Email:</b><a class='left-side' href="mailto:bardtinova@gmail.com">bardtinova@gmail.com</a>
+                    </li>
+                    <li class="contact__item">
+                        <b>Address:</b><br>
+                        <span>Bogoyavlenskiy street, Nikolaev, Nikolaevskaya oblast, Ukraine, 54052</span>
+                    </li>
+                    <li class="contact__item">
+                        <b>Linkedln:</b><a class="left-side"
+                            href="https://www.linkedin.com/in/nataliya-bardtinova-37801722a/">linkedin.com/in/nataliya-bardtinova-37801722a</a>
+                    </li>
+                    <li class="contact__item">
+                        <b>Telegram: </b>@Bardtinova
+                    </li>
+                </ul>
+            </section>
+            <section class="education" id="education">
+                <h2 class="section-title">Education</h2>
+                <ul class="education__list">
+                    <li class="education__item">
+                        <b>2010</b> <br>Nikolaev State Sukhomlinsky University, Ukraine<br>
+                        Faculty of Physics and Mathematics<br>
+                    </li>
+                    <li class="education__item">
+                        <b>2021</b> <br> <a class='left-side'
+                            href=https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer>HTML
+                            and CSS, JS on MDN Mozzila</a>
+                    </li>
+                </ul>
+            </section>
+        </div>
+        <div class="right-side">
+            <section class="page-title">
+                <h1 class="main-title">Nataliya <br />Bardtinova</h1>
+                <p>Junior Front-End developer</p>
+            </section>
+            <figure class="figure--right-side">
+                <img src="img/photo1.jpg" width="380" height="507" class="photo" alt="Photo of Nataliya Bardtinova" />
+            </figure>
+            <section class="about-me" id="about-me">
+                <h2 class="section-title">About me</h2>
+                <p>
+                    I graduated from the Pedagogical University. She worked as a computer science teacher. I can make
+                    decisions and I can solve problems.
+                    I have developed communication skills. I like mitting people and helping them. My people skills are
+                    my greatest strength.
+                    I find it easy to connect with almost anyone, and I often know how to empathize with others in an
+                    appropriate way. I like working in a team.
+                    <br>
+                    <br>
+                    I’m interested in Web Development because this occupation provides endless possibilities for
+                    professional growth,
+                    besides there’s a huge amount of free high quality resources for self-education and a large
+                    community of developers.
+
+                    I am improving my English and programming skills.
+
+                    I believe, that my ability to learn and to gain new skills will lead me through this path of
+                    becoming a proficient Frontend Developer.
+                </p>
+            </section>
+            <section class="skills" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ul class="skills__list">
+                    <li>JavaScript</li>
+                    <li>HTML/CSS</li>
+                    <li>Git, GitHub</li>
+                    <li>Figma </li>
+                    <li>Photoshop</li>
+                    <li>VS Code</li>
+                    <li>SQL</li>
+                    <li>Delphi</li>
+                    <li>Angular</li>
+                    <li>English - Pre-intemedia/Intermedia. I improving my language skills.</li>
+                </ul>
+            </section>
+            <section class="key-strengths" id="strengths">
+                <h2 class="section-title">Strengths</h2>
+                <ul class="key-strengths__list">
+                    <li>Analytical skills</li>
+                    <li>Quick learner</li>
+                    <li>Communication skills</li>
+                    <li>Ability to work in a team</li>
+                    <li>People skills</li>
+                </ul>
+            </section>
+            <section class="code-example" id="code-example">
+                <h2 class="section-title">Code example</h2>
+                <pre>
+                    <code>
+                        function f(n){
+                            if (n &lt;&amp; 0||typeof n==='string'||!Number.isInteger(n)) {
+                               return false;
+                             }
+                               return (1 + n)*n/2;
+                           };
+                 </code>
+           </pre>
+            </section>
+            <section class="projects">
+                <h2 class="section-title">My projects</h2>
+                <a class="projects__title"
+                    href="https://stackblitz.com/edit/angular-ivy-xvzwlo?file=src/app/app.component.ts" title="Example">
+                    Angular
+                </a>
+
+
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <a class="footer__github" href="https://github.com/Bardtinova" target="_blank">
+            My GitHub
+        </a>
+        <p class="footer__year">2022</p>
+        <a class="footer__rsschool" href="https://rs.school/js/" target="_blank">
+            <img src="https://rs.school/images/rs_school_js.svg" width="86" height="32" alt="RS School" />
+        </a>
+    </footer>
+
+</body>
+
+</html>
