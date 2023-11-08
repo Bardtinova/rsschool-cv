@@ -49,3 +49,25 @@ length(this: Stack): number {
 ```
 
 ******************************
+### _Work Experience_
+- [Marvel: react project](https://portfolio-marvel-bardtinova.vercel.app/)
+- [JavaScript project](https://bardtinova.github.io/portfolio-Food/)
+- [JavaScript project](https://bardtinova.github.io/portfolio-Window/)
+- [The site is created in OOP style](https://bardtinova.github.io/portfolio-Source/)
+
+*************************** 
+
+### _Education_
+- Nikolaev State University
+- Udemy courses: Figma, Html, Css, JavaScript, TypeScript, React, WordPress
+- ![certificate](pacistan.jpg)
+- ![certificate](stage0.jpg)
+
+
+********************************
+
+### _Languages_
+- English - Intermediate
+- Russian - Native
+- Ukrainian - Native
+
